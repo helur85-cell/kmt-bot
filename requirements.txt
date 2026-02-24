@@ -1,0 +1,4 @@
+requirements.txt
+aiogram==3.4.1
+requests
+beautifulsoup4
